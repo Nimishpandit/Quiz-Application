@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1386420876 source:d:\nimish\quiz application\quizapp\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386340778 d:\nimish\quiz application\quizapp\conio2.h
+	<conio.h>
+	<windows.h>
+
+1644515252 source:d:\nimish\quiz application\quizapp\main.cpp
+	<iostream>
+	"conio2.h"
+	"quiz.h"
+
+1644575603 source:d:\nimish\quiz application\quizapp\quiz.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<cstring>
+	<vector>
+	<cstdlib>
+	<ctime>
+	"quiz.h"
+	"conio2.h"
+
+1644515252 d:\nimish\quiz application\quizapp\quiz.h
+	<string>
+	<vector>
+
